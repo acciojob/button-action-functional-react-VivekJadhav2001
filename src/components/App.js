@@ -1,6 +1,6 @@
 import React, {Component, useState} from "react";
 import "./../styles/App.css";
-import Hook from "./Hook.jsx"
+import Hook from "./Hook"
 function App() {
   return (
     <div id="main">
